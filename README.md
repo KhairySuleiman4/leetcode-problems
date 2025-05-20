@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
