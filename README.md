@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Math
 |  |
 | ------- |
