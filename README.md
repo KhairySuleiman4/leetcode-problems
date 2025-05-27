@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+| [1610-xor-operation-in-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
