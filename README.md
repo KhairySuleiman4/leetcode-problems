@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
