@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
