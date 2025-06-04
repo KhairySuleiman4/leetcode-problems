@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2491-smallest-even-multiple](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
