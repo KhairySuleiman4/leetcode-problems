@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
+| [0292-nim-game](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1610-xor-operation-in-an-array) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
