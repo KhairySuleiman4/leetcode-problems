@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
