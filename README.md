@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3379-score-of-a-string) |
 ## Matrix
 |  |
 | ------- |
