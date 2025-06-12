@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0742-to-lower-case) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
