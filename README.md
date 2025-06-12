@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Prefix Sum
 |  |
