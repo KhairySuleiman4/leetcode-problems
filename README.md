@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1580-shuffle-the-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0792-binary-search) |
 ## Brainteaser
 |  |
 | ------- |
