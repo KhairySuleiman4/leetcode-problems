@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Number Theory
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
