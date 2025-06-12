@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3194-find-words-containing-character) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
