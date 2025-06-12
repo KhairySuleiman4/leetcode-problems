@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1580-shuffle-the-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0217-contains-duplicate) |
+| [1319-unique-number-of-occurrences](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
