@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
+| [1894-merge-strings-alternately](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3194-find-words-containing-character) |
 ## Matrix
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
