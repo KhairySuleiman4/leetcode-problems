@@ -8,13 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1791-richest-customer-wealth) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
-| [2634-minimum-common-value](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2634-minimum-common-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -67,10 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/1894-merge-strings-alternately) |
-| [2634-minimum-common-value](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -83,7 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
-| [2634-minimum-common-value](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2634-minimum-common-value) |
 ## Brainteaser
 |  |
 | ------- |
@@ -118,7 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
-| [2634-minimum-common-value](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/2634-minimum-common-value) |
 ## Trie
 |  |
 | ------- |
