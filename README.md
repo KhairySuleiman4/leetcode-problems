@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0657-robot-return-to-origin) |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
