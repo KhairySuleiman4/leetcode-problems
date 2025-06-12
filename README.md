@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0136-single-number) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/KhairySuleiman4/leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
